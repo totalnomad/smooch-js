@@ -3,10 +3,10 @@ import { RESET } from '../actions/common-actions';
 
 const INITIAL_STATE = {
     text: {
-        headerText: 'How can we help?',
+        headerText: 'Let\'s chat!',
         inputPlaceholder: 'Type a message...',
         sendButtonText: 'Send',
-        introductionText: 'We\'re here to talk, so ask us anything!',
+        introductionText: 'Want to know more about Alex Cahiz? Just ask!',
         introAppText: 'Message us below or from your favorite app.',
         settingsText: 'You can leave us your email so that we can get back to you this way.',
         settingsReadOnlyText: 'We\'ll get back to you at this email address if we missed you.',
